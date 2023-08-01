@@ -8,9 +8,12 @@
 import SwiftUI
 
 struct StartButtonView: View {
+    @AppStorage(UserDefaultKeys.isOnboardingViewed) var isOnboardingViewed: Bool?
+    
     var body: some View {
         Button(action: {
             print("Start button tapped")
+            isOnboardingViewed = true
         }, label: {
             HStack(spacing: 8) {
                 Text("Start")
