@@ -15,12 +15,18 @@ Encyclopedia of fruits build with new features added to SwiftUI in iOS 14 and 16
 - SwiftUI
 - iOS 16+
 
-## Preview
+## Preview - iOS
 
 <div align="center">
   <img src="https://github.com/LuxksC/FruitsApp/assets/86199915/0d43bd17-3e43-4be9-a983-99e6d74dc1f6" alt="App Launch Screen" style="width:17em;"/>
   <img src="https://github.com/LuxksC/FruitsApp/assets/86199915/c7ebf779-8a10-4bc0-8f9c-296a940e4512" alt="App Launch Screen" style="width:17em;"/>
   <img src="https://github.com/LuxksC/FruitsApp/assets/86199915/f90687b1-8112-4f3c-a11a-fc7099b31fb9" alt="App Launch Screen" style="width:17em;"/>
+</div>
+
+## Preview - iPadOS
+
+<div align="center">
+  <img src="https://github.com/LuxksC/FruitsApp/assets/86199915/cd7830f0-b434-4921-a54a-d0a90b7ce209" alt="App Launch Screen" style="width:25em;"/>
 </div>
 
 ## Runing the project
