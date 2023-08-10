@@ -15,4 +15,5 @@ struct Fruit: Identifiable {
     let gradientColors: [Color]
     let description: String
     let nutrition: [String]
+    let link: String
 }
